@@ -117,10 +117,3 @@ Create a custom Virtual Private Cloud (VPC) from scratch with:
 
 ---
 
-## 📸 Optional: Screenshots
-
-You can upload screenshots under an `images/` folder and embed them like:
-
-```markdown
-![VPC Screenshot](./images/vpc-created.png)
-```
